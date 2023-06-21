@@ -10,7 +10,7 @@ import org.openqa.selenium.remote.DesiredCapabilities;
 import org.openqa.selenium.remote.RemoteWebDriver;
 import org.testng.annotations.Test;
 
-public class Test1 {
+public class Test {
 	
 	@Test
 	public void Checkin() throws MalformedURLException 
