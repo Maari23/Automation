@@ -20,6 +20,8 @@ public class Test {
 	d.manage().window().maximize();
 	d.close();
 	System.out.println("test");
+	System.out.println("test2");
+
 	
 	}
 
