@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-06-21T20:19:12 IST" name="Default suite" finished-at="2023-06-21T20:19:19 IST" duration-ms="7187">
+  <suite started-at="2023-06-22T16:19:59 IST" name="Default suite" finished-at="2023-06-22T16:20:03 IST" duration-ms="4299">
     <groups>
     </groups>
-    <test started-at="2023-06-21T20:19:12 IST" name="Default test" finished-at="2023-06-21T20:19:19 IST" duration-ms="7187">
-      <class name="com.gitDemo.Grid.Test1">
-        <test-method signature="Checkin()[pri:0, instance:com.gitDemo.Grid.Test1@662b4c69]" started-at="2023-06-21T20:19:12 IST" name="Checkin" finished-at="2023-06-21T20:19:19 IST" duration-ms="7125" status="PASS">
+    <test started-at="2023-06-22T16:19:59 IST" name="Default test" finished-at="2023-06-22T16:20:03 IST" duration-ms="4299">
+      <class name="com.gitDemo.Grid.Teest">
+        <test-method signature="Checkin()[pri:0, instance:com.gitDemo.Grid.Teest@662b4c69]" started-at="2023-06-22T16:19:59 IST" name="Checkin" finished-at="2023-06-22T16:20:03 IST" duration-ms="4250" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Checkin -->
-      </class> <!-- com.gitDemo.Grid.Test1 -->
+      </class> <!-- com.gitDemo.Grid.Teest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
